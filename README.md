@@ -15,7 +15,7 @@ This project contains the code necessary for an budget tracker application. User
 ---
 
 ## Screenshot of application
-![Application Screenshot]()
+![Application Screenshot](https://github.com/alex-d-marten/offline-budget-tracker/blob/main/public/images/Budget%20Tracker%20Screenshot.png)
 
 ---
 
@@ -32,7 +32,7 @@ To use the application, run "npm start" at the root directory of the application
 ---
 
 ## Heroku
-[Live application]()
+[Live application](https://alex-d-marten-budget-tracker.herokuapp.com/)
 
 ---
 
