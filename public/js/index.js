@@ -147,10 +147,10 @@ function sendTransaction(isAdding) {
 
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
-  alert('Budget funds added.');
+  alert('Deposit added.');
 };
 
 document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
-  alert('Budget funds deducted.');
+  alert('Expense added.');
 };
